@@ -5,6 +5,7 @@ export const me = {
     first: 'manuel',
     last: 'cortes',
   },
+  
   location: {
     street: '2562 avenida de burgos',
     city: 'valladolid',
